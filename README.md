@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </div>
 
+</br>
+
 ## 👍Sub Skill
 #### I can use
 <div>
@@ -26,6 +28,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </div>
+
+</br>
 
 ## ✍Study
 #### I have to do this someday, so I’m learning as fast as I can
